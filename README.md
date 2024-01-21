@@ -20,7 +20,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/satyanarayan-sahoo-7496ba22a/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/satyanarayan_sahoo_/" target="_blank"><img src="https://icons8.com/icon/6Fsj3rv2DCmG/twitterx"/></a>
+<a href = "https://www.instagram.com/satyanarayan_sahoo_/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
