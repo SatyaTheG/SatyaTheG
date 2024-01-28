@@ -1,7 +1,9 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I'm Satya</h1>
-<h3 align="center"At present I'm in B.tech Second year, but searching internships for being self-dependent, gain experience and knowledge, I am hardworking college student seeking opportunities and I consider myself to be an excellent communicator, strategist, and person who is committed to carrying out his obligations. Experienced ML model developer trained in Azure, pandas and scikit-learn and also interested in Full Stack Web Development and built web pages using HTML5, CSS3 and Node.js and also Python and Flask using Bootstrap template. To gain knowledge and hone my talents, I have worked on numerous projects.</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Satya!+🤝;" />
+</h1>
+<!-- <h3 align="center">At present I'm in B.tech Third year, searching internships for being self-dependent, gain experience and knowledge, I am hardworking college student seeking opportunities and I consider myself to be an excellent communicator, strategist, and person who is committed to carrying out his obligations. Experienced ML model developer trained in Azure, pandas and scikit-learn and also interested in Full Stack Web Development and built web pages using HTML5, CSS3 and Node.js and also Python and Flask using Bootstrap template. To gain knowledge and hone my talents, I have worked on numerous projects.</h3> -->
 
 
 # 🙋‍♂️ About Me
